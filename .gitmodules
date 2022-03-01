@@ -1,0 +1,8 @@
+[submodule "networkengineerblog/public"]
+	path = networkengineerblog/public
+	url = https://github.com/maxbaugh/networkengineer.github.io.git
+	branch = main
+[submodule "networkengineerblog/public2"]
+	path = networkengineerblog/public2
+	url = https://github.com/maxbaugh/networkengineer.github.io.git
+	branch = main
